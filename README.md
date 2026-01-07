@@ -90,7 +90,7 @@ In this repo, we will release (**updating**):
     - Evaluation &#x2705;
   - Retrieval Time Evaluation &#x2705;
 - loading CSR with [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) &#x2705;
-- fit CSR into Sentence Transformers `SparseEncoder` v5.0.0 release &#x1F4CC;
+- fit CSR into Sentence Transformers `SparseEncoder` v5.0.0 release &#x2705;
 
 ## Load our checkpoints with Sentence Transformers
 You can load [our models](https://huggingface.co/Y-Research-Group) with [Sentence Transfomers](https://github.com/UKPLab/sentence-transformers) now. Here is an example on how to evaluate our models on MTEB with sentence_transformers:
